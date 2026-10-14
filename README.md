@@ -3,7 +3,7 @@
 <img src="assets/hero.svg" alt="Rudra Rai — Build. Beyond." width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudra%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-rai-99011b270/)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=0b1a45&labelColor=0b1a45)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/b25bs3421-cpu?style=for-the-badge&logo=github&color=0b1a45&labelColor=0b1a45)](https://github.com/b25bs3421-cpu)
 
 </div>
 
@@ -27,19 +27,20 @@ I like turning a rough idea into something that actually works — then making i
 
 ### Things I've built
 
-| Project | What it does | Focus |
-|---|---|---|
-| [Project One](https://github.com/YOUR_USERNAME/project-one) | One-line description | Web |
-| [Project Two](https://github.com/YOUR_USERNAME/project-two) | One-line description | AI / ML |
-| [Project Three](https://github.com/YOUR_USERNAME/project-three) | One-line description | Tools |
+<div align="center">
+
+<a href="https://github.com/b25bs3421-cpu/rudrarai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b25bs3421-cpu&repo=rudrarai&bg_color=0b1a45&title_color=4d8bff&text_color=e6edff&icon_color=ff2d4a&border_color=2f6bff" alt="rudrarai"/></a>
+<a href="https://github.com/b25bs3421-cpu/aridx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b25bs3421-cpu&repo=aridx&bg_color=0b1a45&title_color=4d8bff&text_color=e6edff&icon_color=ff2d4a&border_color=2f6bff" alt="aridx"/></a>
+
+</div>
 
 <img src="assets/h-real.svg" width="100%" alt="Real work. Real impact."/>
 <img src="assets/badge.svg" width="100%" alt="Builder pass — Rudra Rai"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&bg_color=0b1a45&title_color=4d8bff&icon_color=ff2d4a&hide_border=true" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0b1a45&title_color=4d8bff&text_color=e6edff&hide_border=true" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=b25bs3421-cpu&show_icons=true&theme=midnight-purple&bg_color=0b1a45&title_color=4d8bff&icon_color=ff2d4a&hide_border=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b25bs3421-cpu&layout=compact&bg_color=0b1a45&title_color=4d8bff&text_color=e6edff&hide_border=true" height="170" alt="Top languages"/>
 
 </div>
 

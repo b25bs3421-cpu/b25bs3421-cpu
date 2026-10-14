@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="120" viewBox="0 0 1200 120"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050912"/><stop offset=".6" stop-color="#0a1d52"/><stop offset="1" stop-color="#3a0a1c"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4d8bff"/><stop offset="1" stop-color="#1f4fe0"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2f6bff" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="120" rx="18" fill="url(#bg)"/><rect width="1200" height="120" rx="18" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="1199" height="119" rx="18" fill="none" stroke="#2f6bff" stroke-opacity=".45"/>
+<text x="40" y="38" font-family="Consolas,Menlo,monospace" font-size="13" fill="#7fa6ff" letter-spacing="2">01 / FROM THOUGHT TO THING</text>
+<text x="40" y="88" font-family="Arial Black,Impact,Arial,sans-serif" font-weight="900" font-size="40" fill="#ffffff">IDEAS. BUILT DIFFERENT.</text>
+<text x="1160" y="38" font-family="Consolas,Menlo,monospace" font-size="12" fill="#7fa6ff" text-anchor="end">github.com / build</text>
+<path d="M1080 100l30-10v-14l-30 10zM1120 90l30-10v-14l-30 10z" fill="#ff2d4a"/></svg>
